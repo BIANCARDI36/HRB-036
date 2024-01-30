@@ -1,0 +1,52 @@
+
+
+
+  h1 {
+        text-align: center;
+        color: #fff;
+        font-size: 50px;
+    }
+
+  h2 {
+         text-align: center;
+         color: #fff;
+     }
+     
+body {
+     background-image: url('https://basic-tutorials.de/wp-content/uploads/2021/06/bigstock-Planet-Earth-Globe-View-From-S-411663745.jpg');
+     background-size: cover; /* ajusta o tamanho da imagem para cobrir todo o elemento body */
+     background-position: center; /* centraliza a imagem no elemento body */
+     background-repeat: no-repeat; /* evita a repetição da imagem */
+     }
+
+
+    
+  button {
+     background-color: #1d1a5f; /* Cor de fundo azul, você pode substituir pela cor desejada */
+     color: #fff; /* Cor do texto (branco, para contrastar com o fundo) */
+     padding: 8px 100px; /* Adapte o preenchimento conforme necessário */
+     font-size: 16px; /* Tamanho da fonte */
+     border: none; /* Remove a borda padrão do botão */
+     cursor: pointer; /* Adiciona um indicador de cursor do tipo ponteiro ao passar o mouse sobre o botão */
+    
+        }
+
+  p {
+    font-size: 20px;
+    }
+
+
+
+
+  img {
+        max-width: 30%;
+        height: auto;
+        display: block; /* Certifica-se de que a imagem é tratada como bloco */
+        margin-left: auto; /* Define a margem esquerda como automática */
+        margin-right: auto; /* Define a margem direita como automática */
+}
+  
+
+   
+  
+
