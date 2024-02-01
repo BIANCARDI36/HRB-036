@@ -30,18 +30,17 @@ body {
      border-radius: 35px;
         }
 
+        
   button:hover{
     background-color: #1e1a5f7d;
   }
+
 
   p {
     font-size: 20px;
 
     }
 
-  .titulo{
-    color: ghostwhite;
-  }
 
 
   img {
