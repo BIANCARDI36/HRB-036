@@ -1,9 +1,58 @@
 
 
 
+  h1 {
+        text-align: center;
+        color: #fff;
+        font-size: 50px;
+    }
+
+  h2 {
+         text-align: center;
+         color: #233438;
+     }
+     
+body {
+     background-image: url('https://th.bing.com/th/id/R.0dad5d53a16ceee9c722d97dbd4826a7?rik=f%2bOI5SlU0ovn3g&pid=ImgRaw&r=0');
+     background-size: cover; /* ajusta o tamanho da imagem para cobrir todo o elemento body */
+     background-position: center; /* centraliza a imagem no elemento body */
+      /* evita a repetição da imagem */
+     }
 
 
+    
+  button {
+     background-color: #1d1a5f; /* Cor de fundo azul, você pode substituir pela cor desejada */
+     color: #fff; /* Cor do texto (branco, para contrastar com o fundo) */
+     padding: 8px 100px; /* Adapte o preenchimento conforme necessário */
+     font-size: 16px; /* Tamanho da fonte */
+     cursor: pointer; /* Adiciona um indicador de cursor do tipo ponteiro ao passar o mouse sobre o botão */
+     border-radius: 35px;
+        }
 
+  button:hover{
+    background-color: #1e1a5f7d;
+  }
+
+  p {
+    font-size: 20px;
+
+    }
+
+  .titulo{
+    color: ghostwhite;
+  }
+
+
+  img {
+        max-width: 30%;
+        height: auto;
+        display: block; /* Certifica-se de que a imagem é tratada como bloco */
+        margin-left: auto; /* Define a margem esquerda como automática */
+        margin-right: auto; /* Define a margem direita como automática */
+}
   
+
+   
   
 
