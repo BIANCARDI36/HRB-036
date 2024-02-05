@@ -20,15 +20,34 @@ body {
      }
 
 
+     .barra-branca {
+      background-color: #01053184; /* Cor branca */
+      height: 150px; /* Altura desejada da barra */
+      margin: 5px 0;
+      display: flex !important;
+      justify-content: center;
+      align-items: center;
+     }
+
+
+
+  
+    button {
+      background-color: #1d1a5f; /* Cor de fundo azul, você pode substituir pela cor desejada */
+      color: #fff; /* Cor do texto (branco, para contrastar com o fundo) */
+      padding: 10px 30px; /* Adapte o preenchimento conforme necessário */
+      font-size: 20px; /* Tamanho da fonte */
+      cursor: pointer; /* Adiciona um indicador de cursor do tipo ponteiro ao passar o mouse sobre o botão */
+      border: none; /* Remove a borda do botão */
+      border-radius:0; /* Remove os cantos arredondados */
+      margin-right: -9px; /* Adiciona margem à direita para separar os botões */
+    }
     
-  button {
-     background-color: #1d1a5f; /* Cor de fundo azul, você pode substituir pela cor desejada */
-     color: #fff; /* Cor do texto (branco, para contrastar com o fundo) */
-     padding: 8px 100px; /* Adapte o preenchimento conforme necessário */
-     font-size: 16px; /* Tamanho da fonte */
-     cursor: pointer; /* Adiciona um indicador de cursor do tipo ponteiro ao passar o mouse sobre o botão */
-     border-radius: 35px;
-        }
+    .button{
+      display: flex;
+      justify-content: space-around;
+      background: #1d1a5f;
+    }  
 
         
   button:hover{
